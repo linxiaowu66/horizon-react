@@ -1,7 +1,7 @@
 {
-  "name": "horizon-react",
+  "name": "horizon-react-extend",
   "version": "0.3.0",
-  "description": "React bindings for horizon",
+  "description": "React bindings for horizon, fork from package horizon-react",
   "main": "./lib/index.js",
   "scripts": {
     "build:lib": "NODE_ENV=development babel src --out-dir lib",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/flipace/horizon-react.git"
+    "url": "git+https://github.com/linxiaowu66/horizon-react.git"
   },
   "keywords": [
     "react",
@@ -22,9 +22,9 @@
   "author": "Patrick Neschkudla <neschkudla@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/flipace/horizon-react/issues"
+    "url": "https://github.com/linxiaowu66/horizon-react/issues"
   },
-  "homepage": "https://github.com/flipace/horizon-react#readme",
+  "homepage": "https://github.com/linxiaowu/horizon-react#readme",
   "devDependencies": {
     "babel-cli": "6.7.5",
     "babel-core": "6.7.5",
